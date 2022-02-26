@@ -2,7 +2,7 @@
 
 API desenvolvida em Flask com o Intuito de realizar buscas no google e retornar as URLs em formato Json.
 
-## Rotas
+## Rotass
 
 A API contem as seguintes rotas:
 
